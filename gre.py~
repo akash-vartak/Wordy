@@ -99,5 +99,5 @@ if(choice=="y" or choice=="Y"):
 	command="echo "+line+" >> learnt.txt"
 	os.system(command)
 
-print "File containing learnt words is learnt.txt"
+print "File containing learnt words is learnt.txt
 
