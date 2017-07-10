@@ -11,7 +11,7 @@ another word whose pronunciation you want.
 
 The words looked up are stored in the text file: `learnt.txt` within the same directory as the code `gre.py`
 
-##Usage
+## Usage
 1. Download the zip of this repository or  <br>
 `git clone https://github.com/akash-vartak/Wordy`  <br>
 2. Change to root login via `sudo -i` *Ubuntu*  <br>
@@ -19,16 +19,16 @@ or `su`
 3. `sh install_dependencies.sh` This shall install the required libraries, namely **BeautifulSoup** and **pyttsx**
 4. Now you can easily use `python gre.py` and run Wordy
 
-##Libraries
+## Libraries
 I have used the BeautifulSoup4 and pyttsx libraries, for webscraping and audio respectively.
 
-##Contribution
+## Contribution
 Issues and Pull requests are always welcome. Please send in any suggestions too.  <br>
 Also, don't forget to fork and star this repository. :smile:
 
-###Future Work
+### Future Work
 I made this repostory to primarily help me in improving my vocabulary and simultaneously my scripting skills.  <br>
 Thus the further improvement of the script is stopped as of now. Although you are welcome to work on it as you please.
 
-##License
+## License
 Released under the MIT License
